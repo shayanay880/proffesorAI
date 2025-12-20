@@ -1,0 +1,5 @@
+{
+  "name": "Medical Professor AI",
+  "description": "An evidence-based clinical research assistant for medical professionals. It provides detailed, accurate medical information grounded in verifiable sources.",
+  "requestFramePermissions": []
+}
